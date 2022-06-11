@@ -1,4 +1,4 @@
-### Yo wut up 
+### ![Dancin](https://github.com/Candygoblen123/Candygoblen123/raw/main/dancin.gif) Yo wut up
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/259709415416922113)](https://discord.com/users/259709415416922113)
 
