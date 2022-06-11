@@ -1,4 +1,4 @@
-### Yo wut up
+### Yo wut up 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/259709415416922113)](https://discord.com/users/259709415416922113)
 
