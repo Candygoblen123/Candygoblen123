@@ -1,5 +1,7 @@
-### <img src="https://github.com/Candygoblen123/Candygoblen123/raw/main/dancin.gif" alt="dancin" width="30"/> Yo wut up
-
+<p align='center'>
+  <img src="https://github.com/Candygoblen123/Candygoblen123/raw/main/dancin.gif" alt="dancin" width="30"/> <b>Yo wut up.</b>
+</p>
+  
 <p align="center">
   <img src="https://lanyard.cnrad.dev/api/259709415416922113">
 </p>
