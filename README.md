@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=candygoblen123&theme=dark&show_icons=true&count_private=true)" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=candygoblen123&theme=dark&show_icons=true&count_private=true)" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=candygoblen123&theme=radical&show_icons=true&count_private=true)" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=candygoblen123&theme=radical&show_icons=true&count_private=true)" height="180">
 </p>
 <!--
 **Candygoblen123/Candygoblen123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
