@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:id)
+[![Discord Presence](https://lanyard.cnrad.dev/api/259709415416922113)](https://discord.com/users/259709415416922113)
 
 <!--
 **Candygoblen123/Candygoblen123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
