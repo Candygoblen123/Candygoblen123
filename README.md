@@ -1,6 +1,8 @@
 ### <img src="https://github.com/Candygoblen123/Candygoblen123/raw/main/dancin.gif" alt="dancin" width="30"/> Yo wut up
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/259709415416922113)](https://discord.com/users/259709415416922113)
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/259709415416922113">
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=candygoblen123&theme=cobalt&show_icons=true&count_private=true)" height="180">
