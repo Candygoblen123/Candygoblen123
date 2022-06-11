@@ -3,7 +3,7 @@
 </h1>
   
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/259709415416922113?hideDiscrim=true&idleMessage=Probably%20doing%20something%20else...">
+  <img src="https://lanyard.cnrad.dev/api/259709415416922113?hideDiscrim=true&idleMessage=Who's%20to%20say...">
 </p>
 
 <p align="center">
